@@ -1,1 +1,2 @@
 # LLMFactory
+The goal of the project is to develop methods for delivering models to production, distributing the load on large language models, training large models, as well as solving a classic set of NLP tasks and generally having fun :smile:
